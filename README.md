@@ -42,10 +42,8 @@ $ cat mood.txt
 <div align="center">
 
 ## 💌 GitHub Stats
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Rija-Khurram&show_icons=true&hide_border=true&title_color=c77dff&icon_color=ff8fab&text_color=6d6875&bg_color=fff0f5" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Rija-Khurram&show_icons=true&hide_border=true&title_color=c77dff&icon_color=ff8fab&text_color=6d6875&bg_color=fff0f5" />
 <img height="165" src="https://streak-stats.demolab.com/?user=Rija-Khurram&hide_border=true&background=FFF0F5&ring=C77DFF&fire=FF8FAB&currStreakLabel=C77DFF" />
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rija-Khurram&bg_color=fff0f5&color=6d6875&line=c77dff&point=ff8fab&area=true&hide_border=true" />
 
 ## 🐾 Contribution Snake
