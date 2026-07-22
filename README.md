@@ -50,7 +50,7 @@ $ cat mood.txt
 
 ## 🐾 Contribution Snake
 
-<img src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-USERNAME/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/Rija-Khurram/Rija-Khurram/output/github-contribution-grid-snake.svg" />
 
 [![contact](https://img.shields.io/badge/-Say%20Hi%20%E2%9C%A8-ffafcc?style=for-the-badge&logoColor=white)](mailto:rijakhurram200@gmail.com)
 
