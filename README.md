@@ -46,6 +46,9 @@ $ cat mood.txt
 <img height="165" src="https://streak-stats.demolab.com/?user=Rija-Khurram&hide_border=true&background=FFF0F5&ring=C77DFF&fire=FF8FAB&currStreakLabel=C77DFF" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rija-Khurram&bg_color=fff0f5&color=6d6875&line=c77dff&point=ff8fab&area=true&hide_border=true" />
 
+## 🌆 Contribution City
+![3D contribution graph](https://raw.githubusercontent.com/Rija-Khurram/Rija-Khurram/main/profile-3d-contrib/profile-night-rainbow.svg)
+
 ## 🐾 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/Rija-Khurram/Rija-Khurram/output/github-contribution-grid-snake.svg" />
