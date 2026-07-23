@@ -50,6 +50,14 @@ $ cat mood.txt
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rija-Khurram&bg_color=0D1117&color=C77DFF&line=C77DFF&point=FF8FAB&area=true&area_color=9d4edd&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rija-Khurram&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=c77dff&text_color=C9D1D9" />
 
+<div align="center">
+
+## 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/Rija-Khurram/Rija-Khurram/output/github-snake-pink.svg" alt="snake animation" />
+
+</div>
+
 
 
 
