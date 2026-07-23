@@ -22,7 +22,7 @@ $ ls ./currently_building
 $ cat mood.txt
 > learns by building — one semester project at a time 🌸
 ```
-
+</div>
 <div align="center">
 
 ## 🎀 Tech Stack
@@ -41,12 +41,15 @@ $ cat mood.txt
 ## 🌆 Contribution City
 ![3D contribution graph](https://raw.githubusercontent.com/Rija-Khurram/Rija-Khurram/main/profile-3d-contrib/profile-night-rainbow.svg)
 
+</div>
+
 <div align="center">
 
 ## 📊 Telemetry
 <img src="https://streak-stats.demolab.com/?user=Rija-Khurram&hide_border=true&background=0D1117&ring=C77DFF&fire=FF8FAB&currStreakLabel=C77DFF&sideLabels=C9D1D9&currStreakNum=F8F8F8&sideNums=F8F8F8&dates=8b949e" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rija-Khurram&bg_color=0D1117&color=C77DFF&line=C77DFF&point=FF8FAB&area=true&area_color=9d4edd&hide_border=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rija-Khurram&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=c77dff&text_color=C9D1D9" />
+
 
 
 
